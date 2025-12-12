@@ -31,7 +31,7 @@ o	For Mac/Linux, you can add it to your .bashrc or .zshrc file.
 
 # Step 2: Download the Workshop Data
 ## Visit the workshop data repository:
-https://github.com/n10962646/2025CGPHNeurogenomicsWorkshop
+https://github.com/paulYRP/2025-cpgpneurogenomics-workshop
 1.	On the main page, click the green Code button.
 2.	Select Download ZIP.
 3.	Save the .zip file to your computer.
