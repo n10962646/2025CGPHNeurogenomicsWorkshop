@@ -1,7 +1,7 @@
 # Statistical Genomics and Bioinformatics Workshop 2025 Neurogenomics Program, CGPH
 --------------
 
-## [**DNA Methylation Tutorial**](https://paulYRP.github.io/2025-cpgpneurogenomics-workshop/tutorial.html)
+- [**DNA Methylation Tutorial**](https://paulYRP.github.io/2025-cpgpneurogenomics-workshop/tutorial.html)
 
 ## Overview
 Pre-Workshop Instructions for the Statistical Genomics and Bioinformatics Workshop 2025. Neurogenomics Program, CGPH 
