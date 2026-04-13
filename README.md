@@ -1,11 +1,11 @@
 # Statistical Genomics and Bioinformatics Workshop 2025 Neurogenomics Program, CGPH
 --------------
 
-Pre-Workshop Instructions for the Statistical Genomics and Bioinformatics 
-Workshop 2025. Neurogenomics Program, CGPH 
+- [**DNA Methylation Tutorial**](https://paulYRP.github.io/2025-cpgpneurogenomics-workshop/tutorial.html)
 
+## Overview
+Pre-Workshop Instructions for the Statistical Genomics and Bioinformatics Workshop 2025. Neurogenomics Program, CGPH 
 Queensland University of Technology
-
 Authors: Prof. Divya Metha, Dr. Heidi Sutherland and RA. Paul Ruiz
 
 ## About this document
@@ -31,14 +31,14 @@ o	For Mac/Linux, you can add it to your .bashrc or .zshrc file.
 
 # Step 2: Download the Workshop Data
 ## Visit the workshop data repository:
-https://github.com/n10962646/2025CGPHNeurogenomicsWorkshop
+https://github.com/paulYRP/2025-cpgpneurogenomics-workshop
 1.	On the main page, click the green Code button.
 2.	Select Download ZIP.
 3.	Save the .zip file to your computer.
 4.	Right-click the file and choose Extract All or Unzip depending on your system
 ## Optional for Git users: 
 ```bash
-git clone https://github.com/n10962646/2025CGPHNeurogenomicsWorkshop.git
+https://github.com/paulYRP/2025-cpgpneurogenomics-workshop.git
 ```
 
 # Step 3: Miscellany
@@ -49,8 +49,5 @@ If you are new with R, please the following tutorial to familiarise yourself wit
 Install the following R packages and run all the scripts in advance to avoid delays during the workshop.
 
 Reach out to ruizpint@qut.edu.au if you encounter any installation issues.
-
-[**DNA Methylation Tutorial**](https://paulYRP.github.io/2025CGPHNeurogenomicsWorkshop/tutorial.html)
-
 
 
